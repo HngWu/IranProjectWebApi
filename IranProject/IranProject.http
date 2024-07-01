@@ -1,0 +1,6 @@
+@IranProject_HostAddress = http://localhost:5168
+
+GET {{IranProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
